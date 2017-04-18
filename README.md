@@ -1,11 +1,6 @@
 # Push Notifications in WebApp
 
-Implementation of [Push Notifications codelab](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en).
-
-In this codelab, you'll learn how to add Push Notifications to web applications. This will enable you to re-engage users with breaking news and information about
-new content.
-
-You'll also learn the basics of Service Workers.
+Implementation of [Push Notifications codelab](https://developers.google.com/web/fundamentals/getting-started/push-notifications/?hl=en), an introduction to using Push Notification in Web Apps.
 
 ## How to Setup
 
